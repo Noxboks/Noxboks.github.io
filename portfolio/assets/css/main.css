@@ -1586,7 +1586,9 @@
 
 	body {
 		background-color: #fff;
-		color: #000000;
+		color: #000000
+
+		;
 	}
 
 	body, input, select, textarea {
@@ -1805,7 +1807,7 @@
 	}
 
 	a {
-		color: #999999;
+		color: #000000;
 	}
 
 		a:hover {
@@ -3118,7 +3120,7 @@
 
 		.wrapper.style2 {
 			background-color: #3498db;
-			color: #aed6f1;
+			color: #000000;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
