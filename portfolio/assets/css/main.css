@@ -49,6 +49,15 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	p {
+		color: #000000;
+	}
+
+	.justify_para {
+		text-align: justify;
+		text-justify: inter-word;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -3091,7 +3100,7 @@
 			}
 
 			.wrapper.style1 header p {
-				color: #bfbfbf;
+				color: #000000;
 			}
 
 			.wrapper.style1 table tbody tr {
@@ -3140,7 +3149,7 @@
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-				color: #fff;
+				color: #000000;
 			}
 
 			.wrapper.style2 blockquote {
