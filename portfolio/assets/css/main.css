@@ -3479,12 +3479,12 @@
 
 			#header > a[href="#menu"] {
 				text-decoration: none;
-				-webkit-tap-highlight-color: transparent;
+				-webkit-tap-highlight-color: white;
 			}
 
 				#header > a[href="#menu"]:before {
 					content: "";
-					-moz-osx-font-smoothing: grayscale;
+					-moz-osx-font-smoothing: white;
 					-webkit-font-smoothing: antialiased;
 					font-family: FontAwesome;
 					font-style: normal;
@@ -3726,7 +3726,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/banner-test.jpg");
+		/*background-image: url("../../images/banner-test.jpg");*/
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
