@@ -3708,7 +3708,7 @@
 		}
 
 /* Banner */
-
+/*
 	#banner {
 		display: -ms-flexbox;
 		-ms-flex-pack: center;
@@ -3726,7 +3726,27 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		/*background-image: url("../../images/banner-test.jpg");*/
+		background-color: red;
+		background-image: url("../../images/banner-test.jpg");
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		border-top: 0;
+		min-height: 100vh;
+		height: 100vh !important;
+		position: relative;
+		text-align: center;
+		overflow: hidden;
+	}
+
+	*/
+		#banner {
+		display: -ms-flexbox;
+		padding: 8em 0 6em 0;
+		align-items: center;
+		display: flex;
+		justify-content: center;
+		background-image: url("../../images/banner-test.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
