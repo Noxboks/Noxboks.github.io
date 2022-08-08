@@ -5,7 +5,7 @@ module.exports = {
     title: 'Issam Nedjai',
     description:
       'Issam Nedjai is a software engineer working at the intersection between systems and artificial intelligence.',
-    siteUrl: 'https://issamnedjai.com', // No trailing slash allowed!
+    siteUrl: 'https://noxboks.github.io/portfolio', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
